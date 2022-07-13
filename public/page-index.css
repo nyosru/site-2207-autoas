@@ -1,0 +1,56 @@
+.carousel4,
+.carousel3,
+.carousel2,
+.carousel1 {
+  margin-top: 30px;
+}
+
+.carousel4 .slick-slide,
+.carousel3 .slick-slide,
+.carousel2 .slick-slide,
+.carousel1 .slick-slide {
+  margin: 10px;
+  text-align: center;
+}
+
+.carousel4 .slick-slide a,
+.carousel3 .slick-slide a,
+.carousel2 .slick-slide a,
+.carousel1 .slick-slide a {
+  margin: 10px;
+  text-align: center;
+  font: 14px/14px "Poppins", sans-serif;
+  color: #6c6c6c;
+  font-weight: bold;
+}
+
+.carousel4 img,
+.carousel3 img,
+.carousel2 img,
+.carousel1 img {
+  max-width: 90%;
+  max-height: 100px;
+}
+
+.carousel4 font,
+.carousel3 font,
+.carousel2 font,
+.carousel1 font {
+  color: #334b88;
+}
+
+#carousel1 .carousel-item,
+#carousel2 .carousel-item,
+#carousel3 .carousel-item,
+#carousel4 .carousel-item {
+  text-align: center;
+  padding-top: 30px;
+}
+
+#carousel1 .carousel-item img,
+#carousel2 .carousel-item img,
+#carousel3 .carousel-item img,
+#carousel4 .carousel-item img {
+  max-width: 100%;
+  max-height: 100px;
+}
