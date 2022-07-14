@@ -9,7 +9,7 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <title>11 Авто-АС запчасти, расходники, лампы и масла в Тюмени</title>
+    <title>1122 Авто-АС запчасти, расходники, лампы и масла в Тюмени</title>
 
     {{-- <link rel="stylesheet" href="{{ mix('assets/css/bootstrap.css') }}"> --}}
     {{-- <link rel="stylesheet" href="{{ asset('css/font-awesome.css') }}"> --}}
